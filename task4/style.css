@@ -1,0 +1,22 @@
+.hero-box{
+    margin: 0 auto;
+    border: 5px solid black;
+    height: 300px;
+    width:350px;
+    overflow-y: scroll;
+}
+.hero-box h1{
+    font-size: 27px;
+    margin-left: 10px;
+}
+.hero-box h2{
+    position: sticky;
+    top: 0;
+    margin-top: 15px;
+    width: 100%;
+    background-color: gray;
+    height: 30px;
+}
+.hero-box h5{
+    font-size: 23px;
+}
